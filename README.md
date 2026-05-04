@@ -1,0 +1,2 @@
+# AQuizGame
+!!! ATTENTION PLEASE !!! IT IS JUST FOR PYGAME ZERO (Thanks :3)
